@@ -125,7 +125,6 @@ The project aimed recogniting the characters using deep learning model architect
 
 
 ### File Structures
-
 - File Structure Tree
 ```bash
 ├── demo_app
